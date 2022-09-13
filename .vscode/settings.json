@@ -35,7 +35,21 @@
         "typeinfo": "cpp",
         "utility": "cpp",
         "cstddef": "cpp",
-        "cinttypes": "cpp"
+        "cinttypes": "cpp",
+        "atomic": "cpp",
+        "bit": "cpp",
+        "compare": "cpp",
+        "concepts": "cpp",
+        "cstdarg": "cpp",
+        "algorithm": "cpp",
+        "iterator": "cpp",
+        "memory": "cpp",
+        "memory_resource": "cpp",
+        "optional": "cpp",
+        "random": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "ranges": "cpp"
     },
     "python.pythonPath": "python3"
 }
